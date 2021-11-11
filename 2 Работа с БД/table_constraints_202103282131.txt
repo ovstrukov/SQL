@@ -1,0 +1,17 @@
+|constraint_catalog|constraint_schema|constraint_name   |table_catalog|table_schema|table_name   |constraint_type|is_deferrable|initially_deferred|
+|------------------|-----------------|------------------|-------------|------------|-------------|---------------|-------------|------------------|
+|dvdrental         |public           |actor_pkey        |dvdrental    |public      |actor        |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |address_pkey      |dvdrental    |public      |address      |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |category_pkey     |dvdrental    |public      |category     |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |city_pkey         |dvdrental    |public      |city         |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |country_pkey      |dvdrental    |public      |country      |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |customer_pkey     |dvdrental    |public      |customer     |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |film_actor_pkey   |dvdrental    |public      |film_actor   |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |film_category_pkey|dvdrental    |public      |film_category|PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |film_pkey         |dvdrental    |public      |film         |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |inventory_pkey    |dvdrental    |public      |inventory    |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |language_pkey     |dvdrental    |public      |language     |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |payment_pkey      |dvdrental    |public      |payment      |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |rental_pkey       |dvdrental    |public      |rental       |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |staff_pkey        |dvdrental    |public      |staff        |PRIMARY KEY    |NO           |NO                |
+|dvdrental         |public           |store_pkey        |dvdrental    |public      |store        |PRIMARY KEY    |NO           |NO                |
